@@ -7,6 +7,7 @@
   ** Modified for use beginning with Arduino 13 by L. Abraham Smith, <n3bah@microcompdesign.com> * 
   ** Modified for easy interrup pin assignement on method begin(datapin,irq_pin). Cuningan <cuninganreset@gmail.com> **
   ** Modified for extra keys by Irongeek (at) Irongeek.com
+  ** Modified for modifier keys and status LEDs by Michael Drost <sulkith@gmail.com>
 
   for more information you can read the original wiki in arduino.cc
   at http://www.arduino.cc/playground/Main/PS2Keyboard
